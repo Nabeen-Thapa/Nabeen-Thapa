@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nabeen Thapa
+- 👋 Hi, I’m Nabin Thapa
 - 👀 I’m interested in Web app developement(backend)
 - 🌱 I’m currently learning C#, Laravel
 - 📫 How to reach me ...
