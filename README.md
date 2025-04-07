@@ -1,7 +1,7 @@
 - 👋# Hi, I'm Nabin Thapa
 - 👀 I’m interested in Web developement(backend) | typescript
 - 🌱 - 🌱 I'm currently learning typescript with react
-- 
+
 - ### Connect with me:
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue)](your-profile-link)
@@ -13,7 +13,7 @@
 ### Languages and Tools:
 
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://javascript.com) 
+[![JavaScript](![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white))](https://javascript.com) 
 [![TypeScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.typescriptlang.org/) 
 
 
