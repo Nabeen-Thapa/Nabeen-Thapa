@@ -4,7 +4,7 @@
 
 - ### Connect with me:
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-blue)](your-profile-link)
+[![beTOuchWithMe](https://img.shields.io/badge/TryHackMe-Profile-blue)](https://github.com/Nabeen-Thapa)
 [![Website](https://img.shields.io/badge/Website-YourSite-green)]([https://www.yoursite.com](https://nabeen-thapa.github.io/pesonal-profile.github.io/))  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nabinthapa123/))  
 
