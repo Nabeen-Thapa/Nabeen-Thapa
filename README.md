@@ -1,6 +1,6 @@
-- 👋# Hi, I'm Nabin Thapa
+# Hi, I'm Nabin Thapa
 - 👀 I’m interested in Web developement(backend) | typescript
-- 🌱 - 🌱 I'm currently learning typescript with react
+- 🌱 I'm currently learning typescript with react
 
 - ### Connect with me:
 
