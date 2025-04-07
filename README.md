@@ -5,7 +5,7 @@
 - ### Connect with me:
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nabeen-Thapa)
-[![Website](https://img.shields.io/badge/Website-nabeenthapa.github.io-green)](https://nabeen-thapa.github.io/personal-profile.github.io/) 
+[![Portfolio site](https://img.shields.io/badge/Portfolio-nabeenthapa-green)](https://nabeen-thapa.github.io/pesonal-profile.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nabinthapa123/))  
 
 
