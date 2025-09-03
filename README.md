@@ -1,7 +1,7 @@
 # Hi, I'm Nabin Thapa
-- 👀 I’m interested in Web developement(backend) | typescript
-- 🌱 I'm currently learning typescript with react
-
+about Me
+- Web developer with knowledge of nodeJs, ExpressJs,typescript, reactJs
+- I'm currently learning NestJs
 - ### Connect with me:
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nabeen-Thapa)
