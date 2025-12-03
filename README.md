@@ -5,7 +5,7 @@ about Me
 - ### Connect with me:
   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nabeen-Thapa)
-[![Portfolio site](https://img.shields.io/badge/Portfolio-Nabin Thapa-green)](https://nabinthapa99.com.np/) 
+[![Portfolio site](https://img.shields.io/badge/Portfolio-nabeenthapa-green)](https://nabinthapa99.com.np/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nabinthapa123/)  
 
 ### Languages and Tools:
